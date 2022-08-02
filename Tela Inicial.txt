@@ -1,0 +1,4 @@
+Começar
+Controles
+Opções
+Sair
